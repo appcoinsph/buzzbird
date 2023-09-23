@@ -57,7 +57,7 @@ const Home = () => {
     postsDispatch,
   ]);
 
-  document.title = "BuzzBird";
+  document.title = "SOCIALFEED";
 
   useEffect(() => {
     let timeoutId;
